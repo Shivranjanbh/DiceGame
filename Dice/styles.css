@@ -1,0 +1,81 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+h1{
+    margin: 30px;
+    font-family: "Lobster"  ;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ecca3;
+}
+
+body{
+    background-color: black;
+}
+
+#form{
+    margin: 30px 100px;
+    color: white;
+    font-size: 1.5rem;
+    font-family: "DotGothic16" ;
+}
+
+.btn{
+    background-color: #4ecca3;
+    color: white;
+    padding: 8px 167px;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 3px;
+    transition: 0.3s;
+    display: inline-block;    
+}
+
+.container{
+    font-size: 3rem;
+    color: #4ecca3;
+    font-family: "Bungee Shade";
+}
+
+img{
+    width: 80%;
+}
+
+.bottom {
+    padding-top: 10px;
+}
+
+.butn {
+    background: black;
+    font-family: "Lobster";
+    border:10px;
+    color: #ffff;
+    font-size: 3rem;
+    padding: 0px;
+    text-decoration: none;
+}
+.butn:hover {
+    color: #4ecca3;
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 3%;
+    font-size: 1.2rem;
+    color: white;
+    text-align: center;
+}
+.player1{
+    color: red;
+}
+.player2{
+    color: green;
+}
